@@ -460,16 +460,16 @@
   <main class="deck">
     <section class="slide" data-page="01">
       <div class="header">
-        <div class="eyebrow">FINAL ARCHITECTURE V2</div>
+        <div class="eyebrow">GLOBAL PLATFORM ARCHITECTURE</div>
         <div class="micro-logo"><span>AI</span>ORIENDATA GLOBAL</div>
       </div>
       <h1>Oriendata 三平台业务架构报告</h1>
-      <p class="lead">本版修正核心：<b>客户不进入 Altas</b>。客户通过 <b>客户 SaaS 平台（品牌待定）</b>订阅工具或采购服务；其中服务型订单会转化为 <b>Altas</b> 中由内部项目经理管理的项目、招募单、BPO 任务、验收单和结算对象。线下签署的 Oriendata 自运营项目也直接进入 Altas。<b>WizWiz</b> 承接资源招募、认证、接单和任务执行。</p>
+      <p class="lead">Oriendata 的全球业务由三类平台协同承载：客户侧 AI 数据服务平台负责工具订阅、服务采购与交付可视化；<b>Altas</b> 作为海外内部业务平台聚合线下签署项目、SaaS 服务订单和自运营交付；<b>WizWiz</b> 面向全球众包、专家、BPO 与供应商，承接招募、认证、接单和任务执行。</p>
       <div class="cover-rule"></div>
       <div class="three-col">
         <div class="panel blue">
           <h3>客户 SaaS 平台</h3>
-          <p class="brand-name" style="margin-top:16px">待定<small>工具订阅 + 服务采购</small></p>
+          <p class="brand-name" style="margin-top:16px">AI Data Services Platform<small>工具订阅 + 服务采购</small></p>
           <p class="brand-purpose">面向企业客户销售 AI 数据生产工具和服务，包括数据处理、标注采集、Eval 工作台、人力资源服务、托管评测、数据包和 Agent HITL。</p>
           <p class="brand-slogan">Build the data behind reliable AI.</p>
         </div>
@@ -492,13 +492,13 @@
     <section class="slide" data-page="02">
       <div class="header">
         <div>
-          <div class="eyebrow">CORRECTED MODEL</div>
-          <h2 style="margin-top:10px">三平台正确关系：SaaS 是客户前台，Altas 是内部自运营项目中枢，WizWiz 是资源前台</h2>
+          <div class="eyebrow">PLATFORM MODEL</div>
+          <h2 style="margin-top:10px">三平台关系：客户前台、内部业务中枢与全球资源前台协同运转</h2>
         </div>
         <div class="micro-logo"><span>02</span>PLATFORM MAP</div>
       </div>
       <img class="arch-img" src="assets/oriendata_three_platform_architecture_v2.svg" alt="Oriendata three-platform architecture v2">
-      <p class="source" style="margin-top:14px">关键原则：客户只能看到 SaaS 平台的工具、服务目录、项目状态和交付证据；Altas 承接的是内部经营对象，不能作为客户主入口暴露。线下签署项目与 SaaS 服务型订单都可以进入 Altas；SaaS 的纯工具订阅不必全部进入 Altas，只沉淀使用数据和客户成功信号。</p>
+      <p class="source" style="margin-top:14px">客户体验集中在 SaaS 平台，包括工具、服务目录、项目状态和交付证据；Altas 管理内部经营对象，沉淀项目、招募、BPO、验收、结算和工单；WizWiz 负责资源侧招募、认证、任务执行和信誉记录。</p>
     </section>
 
     <section class="slide" data-page="03">
@@ -580,34 +580,34 @@
             <th style="width:18%">面向用户</th>
             <th style="width:28%">核心边界</th>
             <th style="width:25%">核心功能/对象</th>
-            <th style="width:15%">不做什么</th>
+            <th style="width:15%">边界治理</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>客户 SaaS 平台<br><span class="source">品牌待定</span></td>
+            <td>AI Data Services Platform</td>
             <td>企业客户、AI Labs、模型公司、Agent 团队、车企、金融、医疗、出海 AI 团队。</td>
             <td>客户 SaaS 前台，既卖工具，也卖服务。工具型订阅主要在 SaaS 内闭环；服务型订单转入 Altas 成为内部项目或招募/交付需求。</td>
             <td>工具订阅、服务目录、报价/需求配置、Eval Workspace、数据处理工具、项目状态、客户可见报告、API、账单与续费。</td>
-            <td>不暴露内部 PM 后台、BPO 底价、资源联系方式、成本毛利、内部风险日志。</td>
+            <td>客户侧可见工具、服务、状态、报告和账单；内部成本、资源底价和调度日志留在内部治理体系。</td>
           </tr>
           <tr>
             <td>Altas<br><span class="source">Altas.oriendata.com</span></td>
             <td>内部 PM、交付、资源运营、质量、BPO 管理、供应商管理、财务、法务合规、管理层。</td>
             <td>聚合所有 Oriendata 自运营项目。来源包括线下签署项目、SaaS 服务采购、内部项目、资源招募需求和供应商/BPO 项目需求。</td>
             <td>项目列表、项目管理、招募单、BPO 任务、验收单、Workday 信息、成本中心、支付结算、投诉/工单、文件传输、企业与供应商管理。</td>
-            <td>不作为客户入口；不把客户工具订阅都强制项目化；不替代外部 SaaS 的客户体验层。</td>
+            <td>作为内部履约和经营控制系统，向客户侧输出状态、质量、验收、账单和风险摘要。</td>
           </tr>
           <tr>
             <td>WizWiz</td>
             <td>众包、专家、BPO 人员、供应商、海外众包、区域招募伙伴。</td>
             <td>资源前台和任务执行入口，承接 Altas 发出的招募、任务和 BPO 需求，也承接资源自助申请、培训、接单、交付和结算。</td>
             <td>招募单展示、申请审核、认证考试、任务市场、我的任务、标注要求、执行任务、支付、个人中心、工单、申诉和资源信誉。</td>
-            <td>不让客户绕过平台直接管理资源；不承担客户项目管理前台；不承诺所有国家的直接雇佣与支付执行。</td>
+            <td>资源触达、认证、任务、支付和申诉统一沉淀为可治理的资源信誉与履约记录。</td>
           </tr>
         </tbody>
       </table>
-      <div class="note" style="margin-top:18px">最重要的修正：SaaS 是客户侧采购和工具使用入口，Altas 是内部履约和经营控制系统。服务可以从 SaaS 进入 Altas，但客户本身不进入 Altas。</div>
+      <div class="note" style="margin-top:18px">平台边界的核心是职责分离：SaaS 负责客户侧采购和工具使用体验，Altas 负责内部履约和经营控制，WizWiz 负责资源侧供给与任务执行。</div>
     </section>
 
     <section class="slide" data-page="05">
@@ -804,8 +804,8 @@
       </div>
       <div class="risk-grid">
         <div class="risk">
-          <strong>客户误以为可以进入 Altas</strong>
-          <p>产品叙事必须明确：SaaS 是客户前台，Altas 是内部履约后台。客户只看状态、报告、验收证据和账单，不看内部操作台。</p>
+          <strong>客户侧与内部侧边界混淆</strong>
+          <p>SaaS 承载客户侧体验，Altas 承载内部履约治理；客户可见范围聚焦状态、报告、验收证据和账单。</p>
         </div>
         <div class="risk">
           <strong>工具订阅被过度项目化</strong>

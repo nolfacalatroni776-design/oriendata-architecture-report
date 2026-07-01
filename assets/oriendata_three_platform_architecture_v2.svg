@@ -47,7 +47,7 @@
   <text x="720.0" y="76.0" font-size="17" fill="#888888" text-anchor="middle">母品牌背书：全球 AI 数据生产与人类智能服务</text>
   <rect x="60.0" y="142.0" width="330.0" height="72.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
   <text x="225.0" y="174.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">企业客户</text>
-  <text x="225.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">只进入客户 SaaS 平台，不进入 Altas</text>
+  <text x="225.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">工具订阅 / 服务采购 / 交付可视化</text>
   <rect x="540.0" y="142.0" width="360.0" height="72.0" fill="#F5F8FA" stroke="#BFD3DD" stroke-width="2" rx="8"/>
   <text x="720.0" y="174.4" font-size="17" fill="#153146" text-anchor="middle" font-weight="bold">线下签署项目</text>
   <text x="720.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">销售 / 合同 / SOW / 客户承诺</text>
@@ -55,8 +55,8 @@
   <text x="1215.0" y="174.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">全球供给</text>
   <text x="1215.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">众包 / 专家 / BPO / 供应商 / 海外众包</text>
   <rect x="50.0" y="313.0" width="390.0" height="94.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
-  <text x="245.0" y="355.9" font-size="21" fill="#063653" text-anchor="middle" font-weight="bold">客户 SaaS 平台</text>
-  <text x="245.0" y="378.9" font-size="18" fill="#888888" text-anchor="middle">品牌待定：工具订阅 + 服务采购</text>
+  <text x="245.0" y="355.9" font-size="21" fill="#063653" text-anchor="middle" font-weight="bold">AI Data Services Platform</text>
+  <text x="245.0" y="378.9" font-size="18" fill="#888888" text-anchor="middle">客户前台：工具订阅 + 服务采购</text>
   <rect x="510.0" y="313.0" width="420.0" height="94.0" fill="#FFF8E7" stroke="#C7A34A" stroke-width="2" rx="8"/>
   <text x="720.0" y="355.7" font-size="22" fill="#063653" text-anchor="middle" font-weight="bold">Altas</text>
   <text x="720.0" y="379.7" font-size="19" fill="#888888" text-anchor="middle">内部业务平台：Altas.oriendata.com</text>
