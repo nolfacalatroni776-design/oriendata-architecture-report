@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Inter, Noto Sans SC, PingFang SC, Arial, sans-serif">
-  <rect width="1280" height="720" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 820" width="1440" height="820" font-family="Inter, Noto Sans SC, PingFang SC, Arial, sans-serif">
+  <rect width="1440" height="820" fill="#FFFFFF"/>
   <defs>
     <marker id="arrow-default" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="strokeWidth">
       <polygon points="0 0, 8 4, 0 8" fill="#555555"/>
@@ -20,97 +20,62 @@
       <polygon points="0 0, 8 4, 0 8" fill="#BD6B7E"/>
     </marker>
   </defs>
-  <rect x="68.0" y="113.0" width="1154.0" height="114.0" fill="#FBFCFD" stroke="#D8E2E8" stroke-width="1" rx="8"/>
-  <text x="76.0" y="129.0" font-size="12" fill="#999999" font-weight="bold">需求来源：客户只进入 SaaS；线下项目直接进入内部 Ops</text>
-  <rect x="37.0" y="240.0" width="1206.0" height="150.0" fill="#F8FAFB" stroke="#D8E2E8" stroke-width="1" rx="8"/>
-  <text x="45.0" y="256.0" font-size="12" fill="#999999" font-weight="bold">三块平台：前台销售、内部交付、资源供给</text>
-  <rect x="-19.0" y="407.0" width="1258.0" height="126.0" fill="#FBFCFD" stroke="#D8E2E8" stroke-width="1" rx="8"/>
-  <text x="-11.0" y="423.0" font-size="12" fill="#999999" font-weight="bold">平台对象与资产沉淀</text>
-  <path d="M 582.8,99.0 L 306.8,268.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
-  <rect x="407.8" y="165.5" width="74.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="444.8" y="177.5" font-size="11" fill="#777777" text-anchor="middle">客户价值前台</text>
-  <path d="M 640.0,99.0 L 640.0,268.0" stroke="#C7A34A" stroke-width="2" fill="none" marker-end="url(#arrow-c3)"/>
-  <rect x="603.0" y="165.5" width="74.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="640.0" y="177.5" font-size="11" fill="#777777" text-anchor="middle">内部交付中枢</text>
-  <path d="M 697.2,99.0 L 973.2,268.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
-  <rect x="798.2" y="165.5" width="74.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="835.2" y="177.5" font-size="11" fill="#777777" text-anchor="middle">全球供给网络</text>
-  <path d="M 230.0,205.0 L 230.0,268.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
-  <rect x="194.1" y="218.5" width="71.8" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="230.0" y="230.5" font-size="11" fill="#777777" text-anchor="middle">订阅 / 采购</text>
-  <path d="M 640.0,205.0 L 640.0,268.0" stroke="#7A8A96" stroke-width="2" fill="none" marker-end="url(#arrow-default)"/>
-  <rect x="603.0" y="218.5" width="74.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="640.0" y="230.5" font-size="11" fill="#777777" text-anchor="middle">线下项目进入</text>
-  <path d="M 1050.0,205.0 L 1050.0,268.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
-  <rect x="993.2" y="218.5" width="113.6" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="1050.0" y="230.5" font-size="11" fill="#777777" text-anchor="middle">加入 / 认证 / 接单</text>
-  <path d="M 195.1,362.0 L 141.7,434.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
-  <rect x="142.4" y="380.0" width="52.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="168.4" y="392.0" font-size="11" fill="#777777" text-anchor="middle">工具商品</text>
-  <path d="M 266.4,362.0 L 322.1,434.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
-  <rect x="268.3" y="380.0" width="52.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="294.3" y="392.0" font-size="11" fill="#777777" text-anchor="middle">服务商品</text>
-  <path d="M 417.4,434.0 L 552.1,362.0" stroke="#C7A34A" stroke-width="2" fill="none" marker-end="url(#arrow-c3)"/>
-  <rect x="453.2" y="380.0" width="63.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="484.7" y="392.0" font-size="11" fill="#777777" text-anchor="middle">转内部交付</text>
-  <path d="M 643.0,362.0 L 647.5,431.0" stroke="#C7A34A" stroke-width="2" fill="none" marker-end="url(#arrow-c3)"/>
-  <rect x="630.3" y="378.5" width="30.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="645.3" y="390.5" font-size="11" fill="#777777" text-anchor="middle">管理</text>
-  <path d="M 820.0,315.0 L 885.0,315.0" stroke="#7A8A96" stroke-width="2" fill="none" marker-end="url(#arrow-default)"/>
-  <rect x="774.8" y="297.0" width="155.4" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="852.5" y="309.0" font-size="11" fill="#777777" text-anchor="middle">发起招募 / 任务 / BPO需求</text>
-  <path d="M 1050.0,362.0 L 1050.0,431.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
-  <rect x="1035.0" y="378.5" width="30.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="1050.0" y="390.5" font-size="11" fill="#777777" text-anchor="middle">沉淀</text>
-  <path d="M 885.0,315.0 Q 852.5,285.0 820.0,315.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
-  <rect x="799.0" y="282.0" width="107.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="852.5" y="294.0" font-size="11" fill="#777777" text-anchor="middle">供给与任务结果回传</text>
-  <path d="M 647.6,509.0 L 642.1,596.0" stroke="#063653" stroke-width="2" fill="none" marker-end="url(#arrow-c0)"/>
-  <rect x="618.8" y="534.5" width="52.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="644.8" y="546.5" font-size="11" fill="#777777" text-anchor="middle">交付治理</text>
-  <path d="M 950.1,509.0 L 727.1,596.0" stroke="#063653" stroke-width="2" fill="none" marker-end="url(#arrow-c0)"/>
-  <rect x="812.6" y="534.5" width="52.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="838.6" y="546.5" font-size="11" fill="#777777" text-anchor="middle">资源信誉</text>
-  <path d="M 225.0,503.5 L 528.4,596.0" stroke="#063653" stroke-width="2" fill="none" marker-end="url(#arrow-c0)"/>
-  <rect x="339.7" y="531.8" width="74.0" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="376.7" y="543.8" font-size="11" fill="#777777" text-anchor="middle">工具使用数据</text>
-  <path d="M 595.7,596.0 Q 461.7,455.2 291.2,362.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
-  <rect x="383.7" y="449.1" width="137.8" height="16" fill="#FFFFFF" rx="3" opacity="0.85"/>
-  <text x="452.6" y="461.1" font-size="11" fill="#777777" text-anchor="middle">客户可见报告 / 续费证明</text>
-  <rect x="410.0" y="29.0" width="460.0" height="70.0" fill="#063653" stroke="#063653" stroke-width="2" rx="8"/>
-  <text x="640.0" y="60.0" font-size="20" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Oriendata</text>
-  <text x="640.0" y="82.0" font-size="17" fill="#888888" text-anchor="middle">母品牌背书：全球 AI 数据生产与人类智能服务</text>
-  <rect x="90.0" y="135.0" width="280.0" height="70.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
-  <text x="230.0" y="166.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">企业客户</text>
-  <text x="230.0" y="185.4" font-size="14" fill="#888888" text-anchor="middle">只进入 Ergon，不进入 Ops</text>
-  <rect x="500.0" y="135.0" width="280.0" height="70.0" fill="#F5F8FA" stroke="#BFD3DD" stroke-width="2" rx="8"/>
-  <text x="640.0" y="166.4" font-size="17" fill="#153146" text-anchor="middle" font-weight="bold">线下签署项目</text>
-  <text x="640.0" y="185.4" font-size="14" fill="#888888" text-anchor="middle">销售 / 合同 / SOW / 客户承诺</text>
-  <rect x="900.0" y="135.0" width="300.0" height="70.0" fill="#EFF8F4" stroke="#4E8A75" stroke-width="2" rx="8"/>
-  <text x="1050.0" y="166.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">全球供给</text>
-  <text x="1050.0" y="185.4" font-size="14" fill="#888888" text-anchor="middle">众包 / 专家 / BPO / 供应商 / 海外众包</text>
-  <rect x="65.0" y="268.0" width="330.0" height="94.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
-  <text x="230.0" y="310.7" font-size="22" fill="#063653" text-anchor="middle" font-weight="bold">Ergon</text>
-  <text x="230.0" y="334.7" font-size="19" fill="#888888" text-anchor="middle">SaaS 前台：工具订阅 + 服务采购</text>
-  <rect x="460.0" y="268.0" width="360.0" height="94.0" fill="#FFF8E7" stroke="#C7A34A" stroke-width="2" rx="8"/>
-  <text x="640.0" y="310.7" font-size="22" fill="#063653" text-anchor="middle" font-weight="bold">Ops</text>
-  <text x="640.0" y="334.7" font-size="19" fill="#888888" text-anchor="middle">内部后台：全部自运营项目聚合与交付管理</text>
-  <rect x="885.0" y="268.0" width="330.0" height="94.0" fill="#EFF8F4" stroke="#4E8A75" stroke-width="2" rx="8"/>
-  <text x="1050.0" y="310.7" font-size="22" fill="#063653" text-anchor="middle" font-weight="bold">WizWiz</text>
-  <text x="1050.0" y="334.7" font-size="19" fill="#888888" text-anchor="middle">资源前台：招募 / 认证 / 接单 / 任务执行</text>
-  <rect x="5.0" y="434.0" width="220.0" height="72.0" fill="#FFFFFF" stroke="#1D76A5" stroke-width="2" rx="8"/>
-  <text x="115.0" y="466.9" font-size="14" fill="#153146" text-anchor="middle" font-weight="bold">工具型订阅</text>
-  <text x="115.0" y="482.9" font-size="11" fill="#888888" text-anchor="middle">客户自助使用工具 / API / 数据处理 / Eval Workspace</text>
-  <rect x="235.0" y="434.0" width="230.0" height="72.0" fill="#FFFFFF" stroke="#1D76A5" stroke-width="2" rx="8"/>
-  <text x="350.0" y="466.9" font-size="14" fill="#153146" text-anchor="middle" font-weight="bold">服务型订单</text>
-  <text x="350.0" y="482.9" font-size="11" fill="#888888" text-anchor="middle">项目交付 / 人力资源服务 / 托管评测 / 数据包</text>
-  <rect x="480.0" y="431.0" width="340.0" height="78.0" fill="#FFFFFF" stroke="#C7A34A" stroke-width="2" rx="8"/>
-  <text x="650.0" y="466.9" font-size="14" fill="#153146" text-anchor="middle" font-weight="bold">Ops 内部对象</text>
-  <text x="650.0" y="482.9" font-size="11" fill="#888888" text-anchor="middle">项目 / 招募单 / BPO任务 / 验收单 / 支付结算 / 工单</text>
-  <rect x="885.0" y="431.0" width="330.0" height="78.0" fill="#FFFFFF" stroke="#4E8A75" stroke-width="2" rx="8"/>
-  <text x="1050.0" y="466.9" font-size="14" fill="#153146" text-anchor="middle" font-weight="bold">WizWiz 资源对象</text>
-  <text x="1050.0" y="482.9" font-size="11" fill="#888888" text-anchor="middle">候选人 / 众包 / 专家 / BPO人员 / 供应商 / 任务记录</text>
-  <rect x="360.0" y="596.0" width="560.0" height="68.0" fill="#063653" stroke="#063653" stroke-width="2" rx="8"/>
-  <text x="640.0" y="626.5" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">交付结果与证据</text>
-  <text x="640.0" y="645.5" font-size="14" fill="#888888" text-anchor="middle">数据资产 / 质量报告 / 验收结果 / 资源信誉 / 成本毛利 / 审计记录</text>
+  <rect x="30.0" y="112.0" width="1380.0" height="132.0" fill="#FBFCFD" stroke="#D8E2E8" stroke-width="1" rx="8"/>
+  <text x="38.0" y="128.0" font-size="12" fill="#999999" font-weight="bold">需求来源：客户进入 SaaS；线下项目直接进入 Altas；资源进入 WizWiz</text>
+  <rect x="16.0" y="279.0" width="1408.0" height="162.0" fill="#F8FAFB" stroke="#D8E2E8" stroke-width="1" rx="8"/>
+  <text x="24.0" y="295.0" font-size="12" fill="#999999" font-weight="bold">三块平台：客户价值前台、内部业务平台、全球资源前台</text>
+  <rect x="3.0" y="489.0" width="1409.0" height="132.0" fill="#FBFCFD" stroke="#D8E2E8" stroke-width="1" rx="8"/>
+  <text x="11.0" y="505.0" font-size="12" fill="#999999" font-weight="bold">平台对象与资产沉淀</text>
+  <path d="M 666.5,92.0 L 318.9,313.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
+  <path d="M 720.0,92.0 L 720.0,313.0" stroke="#C7A34A" stroke-width="2" fill="none" marker-end="url(#arrow-c3)"/>
+  <path d="M 773.5,92.0 L 1121.1,313.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
+  <path d="M 229.0,214.0 L 239.8,313.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
+  <path d="M 720.0,214.0 L 720.0,313.0" stroke="#7A8A96" stroke-width="2" fill="none" marker-end="url(#arrow-default)"/>
+  <path d="M 1211.0,214.0 L 1200.2,313.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
+  <path d="M 222.7,407.0 L 167.6,523.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
+  <path d="M 286.2,407.0 L 377.5,511.0" stroke="#1D76A5" stroke-width="2" fill="none" marker-end="url(#arrow-c1)"/>
+  <path d="M 540.0,552.2 L 600.0,554.2" stroke="#C7A34A" stroke-width="2" fill="none" marker-end="url(#arrow-c3)"/>
+  <path d="M 734.1,407.0 L 768.3,521.0" stroke="#C7A34A" stroke-width="2" fill="none" marker-end="url(#arrow-c3)"/>
+  <path d="M 930.0,360.0 L 1000.0,360.0" stroke="#7A8A96" stroke-width="2" fill="none" marker-end="url(#arrow-default)"/>
+  <path d="M 1195.0,407.0 L 1195.0,521.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
+  <path d="M 1000.0,560.0 L 960.0,560.0" stroke="#4E8A75" stroke-width="2" fill="none" marker-end="url(#arrow-c2)"/>
+  <path d="M 261.0,597.0 L 609.0,713.0" stroke="#063653" stroke-width="2" fill="none" marker-end="url(#arrow-c0)"/>
+  <path d="M 767.7,599.0 L 731.7,713.0" stroke="#063653" stroke-width="2" fill="none" marker-end="url(#arrow-c0)"/>
+  <path d="M 1097.5,599.0 L 812.5,713.0" stroke="#063653" stroke-width="2" fill="none" marker-end="url(#arrow-c0)"/>
+  <rect x="470.0" y="24.0" width="500.0" height="68.0" fill="#063653" stroke="#063653" stroke-width="2" rx="8"/>
+  <text x="720.0" y="54.0" font-size="20" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Oriendata</text>
+  <text x="720.0" y="76.0" font-size="17" fill="#888888" text-anchor="middle">母品牌背书：全球 AI 数据生产与人类智能服务</text>
+  <rect x="60.0" y="142.0" width="330.0" height="72.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
+  <text x="225.0" y="174.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">企业客户</text>
+  <text x="225.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">只进入客户 SaaS 平台，不进入 Altas</text>
+  <rect x="540.0" y="142.0" width="360.0" height="72.0" fill="#F5F8FA" stroke="#BFD3DD" stroke-width="2" rx="8"/>
+  <text x="720.0" y="174.4" font-size="17" fill="#153146" text-anchor="middle" font-weight="bold">线下签署项目</text>
+  <text x="720.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">销售 / 合同 / SOW / 客户承诺</text>
+  <rect x="1050.0" y="142.0" width="330.0" height="72.0" fill="#EFF8F4" stroke="#4E8A75" stroke-width="2" rx="8"/>
+  <text x="1215.0" y="174.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">全球供给</text>
+  <text x="1215.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">众包 / 专家 / BPO / 供应商 / 海外众包</text>
+  <rect x="50.0" y="313.0" width="390.0" height="94.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
+  <text x="245.0" y="355.9" font-size="21" fill="#063653" text-anchor="middle" font-weight="bold">客户 SaaS 平台</text>
+  <text x="245.0" y="378.9" font-size="18" fill="#888888" text-anchor="middle">品牌待定：工具订阅 + 服务采购</text>
+  <rect x="510.0" y="313.0" width="420.0" height="94.0" fill="#FFF8E7" stroke="#C7A34A" stroke-width="2" rx="8"/>
+  <text x="720.0" y="355.7" font-size="22" fill="#063653" text-anchor="middle" font-weight="bold">Altas</text>
+  <text x="720.0" y="379.7" font-size="19" fill="#888888" text-anchor="middle">内部业务平台：Altas.oriendata.com</text>
+  <rect x="1000.0" y="313.0" width="390.0" height="94.0" fill="#EFF8F4" stroke="#4E8A75" stroke-width="2" rx="8"/>
+  <text x="1195.0" y="355.7" font-size="22" fill="#063653" text-anchor="middle" font-weight="bold">WizWiz</text>
+  <text x="1195.0" y="379.7" font-size="19" fill="#888888" text-anchor="middle">资源前台：招募 / 认证 / 接单 / 任务执行</text>
+  <rect x="25.0" y="523.0" width="250.0" height="74.0" fill="#FFFFFF" stroke="#1D76A5" stroke-width="2" rx="8"/>
+  <text x="150.0" y="556.8" font-size="15" fill="#153146" text-anchor="middle" font-weight="bold">工具型订阅</text>
+  <text x="150.0" y="573.8" font-size="12" fill="#888888" text-anchor="middle">自助工具 / API / 数据处理</text>
+  <rect x="280.0" y="511.0" width="260.0" height="74.0" fill="#FFFFFF" stroke="#1D76A5" stroke-width="2" rx="8"/>
+  <text x="410.0" y="544.8" font-size="15" fill="#153146" text-anchor="middle" font-weight="bold">服务型订单</text>
+  <text x="410.0" y="561.8" font-size="12" fill="#888888" text-anchor="middle">项目交付 / 人力 / 托管评测</text>
+  <rect x="600.0" y="521.0" width="360.0" height="78.0" fill="#FFFFFF" stroke="#C7A34A" stroke-width="2" rx="8"/>
+  <text x="780.0" y="556.8" font-size="15" fill="#153146" text-anchor="middle" font-weight="bold">Altas 内部对象</text>
+  <text x="780.0" y="573.8" font-size="12" fill="#888888" text-anchor="middle">项目 / 招募单 / 验收 / 结算 / 工单</text>
+  <rect x="1000.0" y="521.0" width="390.0" height="78.0" fill="#FFFFFF" stroke="#4E8A75" stroke-width="2" rx="8"/>
+  <text x="1195.0" y="556.8" font-size="15" fill="#153146" text-anchor="middle" font-weight="bold">WizWiz 资源对象</text>
+  <text x="1195.0" y="573.8" font-size="12" fill="#888888" text-anchor="middle">候选人 / 众包 / 专家 / 供应商 / 任务记录</text>
+  <rect x="380.0" y="713.0" width="680.0" height="74.0" fill="#063653" stroke="#063653" stroke-width="2" rx="8"/>
+  <text x="720.0" y="746.3" font-size="18" fill="#FFFFFF" text-anchor="middle" font-weight="bold">交付结果与证据</text>
+  <text x="720.0" y="766.3" font-size="15" fill="#888888" text-anchor="middle">数据资产 / 质量报告 / 验收结果 / 资源信誉 / 成本毛利 / 审计记录</text>
 </svg>
