@@ -53,7 +53,7 @@
   <text x="720.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">销售 / 合同 / SOW / 客户承诺</text>
   <rect x="1050.0" y="142.0" width="330.0" height="72.0" fill="#EFF8F4" stroke="#4E8A75" stroke-width="2" rx="8"/>
   <text x="1215.0" y="174.4" font-size="17" fill="#063653" text-anchor="middle" font-weight="bold">全球供给</text>
-  <text x="1215.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">众包 / 专家 / BPO / 供应商 / 海外众包</text>
+  <text x="1215.0" y="193.4" font-size="14" fill="#888888" text-anchor="middle">众包 / 专家 / 供应商 / 海外众包</text>
   <rect x="50.0" y="313.0" width="390.0" height="94.0" fill="#EAF6FB" stroke="#1D76A5" stroke-width="2" rx="8"/>
   <text x="245.0" y="355.9" font-size="21" fill="#063653" text-anchor="middle" font-weight="bold">AI Data Services Platform</text>
   <text x="245.0" y="378.9" font-size="18" fill="#888888" text-anchor="middle">客户前台：工具订阅 + 服务采购</text>
